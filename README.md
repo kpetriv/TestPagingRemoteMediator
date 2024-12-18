@@ -1,6 +1,6 @@
 
 # Presentation:
-
+EDIT: this was an interview test from 2-3 years ago which was quite fun and I kept it for future playground of remote mediator
 ## General
 
 I haven't worked much with paged loading much before, as most of our screens are one shot loading operations
